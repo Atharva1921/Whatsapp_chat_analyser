@@ -6,7 +6,7 @@ The WhatsApp Chat Analyzer is a tool designed to extract valuable insights from 
 
 ## Demo
 
-https://whatsapp-analyser.streamlit.app/
+https://whatsapp-analyser.streamlit.app
 
 
 ## How to Run
